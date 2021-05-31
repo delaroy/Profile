@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">profile</string>
+    <string name="my_profile">My Profile</string>
+    <string name="anna_karenina">Anna Karenina</string>
+    <string name="university_of_lagos">University of Lagos</string>
+    <string name="lagos_nigeria">Lagos, Nigeria</string>
+    <string name="photos">Photos</string>
+    <string name="_23">23</string>
+    <string name="followers">Followers</string>
+    <string name="_146">146</string>
+    <string name="following">Following</string>
+    <string name="_204">204</string>
+</resources>
